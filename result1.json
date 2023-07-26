@@ -1,0 +1,644 @@
+{
+    "C:\\Users\\maksi\\PycharmProjects": {
+        "object_type": "Directory",
+        "object_name": "pythonDomashka_8_26.07.2023",
+        "object_size": 680114737,
+        "parant_directory": "PycharmProjects"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\": {
+        "object_type": "File",
+        "object_name": "Zadanie_2_3.py",
+        "object_size": 4570,
+        "parant_directory": ""
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\.idea": {
+        "object_type": "File",
+        "object_name": "workspace.xml",
+        "object_size": 238,
+        "parant_directory": ".idea"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv": {
+        "object_type": "Directory",
+        "object_name": "Scripts",
+        "object_size": 1406425,
+        "parant_directory": "venv"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib": {
+        "object_type": "Directory",
+        "object_name": "site-packages",
+        "object_size": 84302505,
+        "parant_directory": "Lib"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 4066,
+        "parant_directory": "site-packages"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip": {
+        "object_type": "File",
+        "object_name": "__pip-runner__.py",
+        "object_size": 1444,
+        "parant_directory": "pip"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 573,
+        "parant_directory": "_internal"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\cli": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 132,
+        "parant_directory": "cli"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\commands": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 3882,
+        "parant_directory": "commands"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\distributions": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 858,
+        "parant_directory": "distributions"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\index": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 30,
+        "parant_directory": "index"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\locations": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 15365,
+        "parant_directory": "locations"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\metadata": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 4280,
+        "parant_directory": "metadata"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 107,
+        "parant_directory": "importlib"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\models": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 63,
+        "parant_directory": "models"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\network": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 50,
+        "parant_directory": "network"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\operations": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "operations"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "build"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 51,
+        "parant_directory": "install"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\req": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 2738,
+        "parant_directory": "req"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\resolution": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "resolution"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "legacy"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "resolvelib"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\utils": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "utils"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_internal\\vcs": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 596,
+        "parant_directory": "vcs"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 4966,
+        "parant_directory": "_vendor"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 465,
+        "parant_directory": "cachecontrol"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 242,
+        "parant_directory": "caches"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi": {
+        "object_type": "File",
+        "object_name": "__main__.py",
+        "object_size": 255,
+        "parant_directory": "certifi"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 4797,
+        "parant_directory": "chardet"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "cli"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "metadata"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 266,
+        "parant_directory": "colorama"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\tests": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 75,
+        "parant_directory": "tests"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 581,
+        "parant_directory": "distlib"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\distro": {
+        "object_type": "File",
+        "object_name": "__main__.py",
+        "object_size": 64,
+        "parant_directory": "distro"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\idna": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 849,
+        "parant_directory": "idna"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 1132,
+        "parant_directory": "msgpack"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 497,
+        "parant_directory": "packaging"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 109388,
+        "parant_directory": "pkg_resources"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs": {
+        "object_type": "File",
+        "object_name": "__main__.py",
+        "object_size": 1198,
+        "parant_directory": "platformdirs"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments": {
+        "object_type": "File",
+        "object_name": "__main__.py",
+        "object_size": 353,
+        "parant_directory": "pygments"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 40386,
+        "parant_directory": "filters"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 4800,
+        "parant_directory": "formatters"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 11164,
+        "parant_directory": "lexers"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 3419,
+        "parant_directory": "styles"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 9171,
+        "parant_directory": "pyparsing"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 23685,
+        "parant_directory": "diagram"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 491,
+        "parant_directory": "pyproject_hooks"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 546,
+        "parant_directory": "_in_process"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\requests": {
+        "object_type": "File",
+        "object_name": "__version__.py",
+        "object_size": 435,
+        "parant_directory": "requests"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 537,
+        "parant_directory": "resolvelib"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "compat"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\rich": {
+        "object_type": "File",
+        "object_name": "__main__.py",
+        "object_size": 8478,
+        "parant_directory": "rich"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 20493,
+        "parant_directory": "tenacity"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 396,
+        "parant_directory": "tomli"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 3333,
+        "parant_directory": "urllib3"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "contrib"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "_securetransport"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "packages"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "backports"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 1155,
+        "parant_directory": "util"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 10579,
+        "parant_directory": "webencodings"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pip-23.1.2.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "pip-23.1.2.dist-info"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 101118,
+        "parant_directory": "pkg_resources"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\extern": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 2955,
+        "parant_directory": "extern"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 2955,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 208,
+        "parant_directory": "_vendor"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 506,
+        "parant_directory": "importlib_resources"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 25975,
+        "parant_directory": "jaraco"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 19684,
+        "parant_directory": "text"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 19684,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 215,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 152782,
+        "parant_directory": "more_itertools"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 364,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 101244,
+        "parant_directory": "packaging"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 553,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 22580,
+        "parant_directory": "platformdirs"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 10503,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 208,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\pkg_resources\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 101118,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 9257,
+        "parant_directory": "setuptools"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\command": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 396,
+        "parant_directory": "command"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\config": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 1498,
+        "parant_directory": "config"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 1038,
+        "parant_directory": "_validate_pyproject"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\extern": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 2527,
+        "parant_directory": "extern"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_distutils": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 359,
+        "parant_directory": "_distutils"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 430,
+        "parant_directory": "command"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "_vendor"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 26498,
+        "parant_directory": "importlib_metadata"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 506,
+        "parant_directory": "importlib_resources"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "jaraco"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 15517,
+        "parant_directory": "text"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 82,
+        "parant_directory": "more_itertools"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 501,
+        "parant_directory": "packaging"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 396,
+        "parant_directory": "tomli"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\setuptools-68.0.0.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "setuptools-68.0.0.dist-info"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\wheel": {
+        "object_type": "File",
+        "object_name": "__main__.py",
+        "object_size": 455,
+        "parant_directory": "wheel"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\wheel\\cli": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 3932,
+        "parant_directory": "cli"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\wheel\\vendored": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "vendored"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\wheel\\vendored\\packaging": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": "packaging"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\wheel-0.40.0.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 81,
+        "parant_directory": "wheel-0.40.0.dist-info"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\_distutils_hack": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 7680,
+        "parant_directory": "_distutils_hack"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 7680,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Lib\\site-packages\\__pycache__": {
+        "object_type": "File",
+        "object_name": "_virtualenv.cpython-310.pyc",
+        "object_size": 4066,
+        "parant_directory": "__pycache__"
+    },
+    "\\Users\\maksi\\PycharmProjects\\pythonDomashka_8_26.07.2023\\venv\\Scripts": {
+        "object_type": "File",
+        "object_name": "wheel3.exe",
+        "object_size": 108428,
+        "parant_directory": "Scripts"
+    }
+}
